@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reactCrud",
+    "slug": "reactCrud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reactCrud"
+}
